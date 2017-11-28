@@ -9,9 +9,9 @@ import random
 import sys
 
 # The game grid contains this many cells in the x direction. A piece of food or a segment of the snake takes up one cell.
-GRID_WIDTH = 30
+GRID_WIDTH = 40
 # The game grid contains this many cells in the y direction. A piece of food or a segment of the snake takes up one cell.
-GRID_HEIGHT = 30
+GRID_HEIGHT = 40
 # The height and width of each square cell in pixels.
 PIXELS_IN_CELL = 20
 # The width of the game grid in pixels.
